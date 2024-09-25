@@ -1,0 +1,4 @@
+ pip install django djangorestframework;
+ python manage.py migrate
+ python manage.py createsuperuser --username sohag  --email sohag@example.com
+ password: Python@786
